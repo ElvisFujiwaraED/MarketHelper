@@ -1,5 +1,5 @@
 {
 	"latest": 5,
 	"version": "v1.1.0 Release",
-	"updateurl":"http://51.15.67.108:20000/interface/ePad/Market%20Helper/update/update.exe"
+	"updateurl":"https://raw.githubusercontent.com/ElvisFujiwaraED/MarketHelper/main/update.exe"
 }
